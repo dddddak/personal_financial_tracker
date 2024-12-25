@@ -2,11 +2,11 @@
 
 # Description
 
-# To track of a user's finance record personally, the user can add and view income or expense records, with date, amount, category, and description. The user is able to filter records by data range, category, and type(income or expense) and summarize data by calculating total income, total expenses, and net balance. This code is made up of Python, SQLite, and Python libraries, and will show up visualization options (summary charts) by using importing libraries; matplotlib.pyplot and seaborn.
+To track of a user's finance record personally, the user can add and view income or expense records, with date, amount, category, and description. The user is able to filter records by data range, category, and type(income or expense) and summarize data by calculating total income, total expenses, and net balance. This code is made up of Python, SQLite, and Python libraries, and will show up visualization options (summary charts) by using importing libraries; matplotlib.pyplot and seaborn.
 
 # How does it work
 
-# Once a user runs this code, the program will show up six options with welcome sign, which are add records, view records, summary of total expenses, income, and net balance, sort records by date, category, and type(income or expense), view summary charts through bar graph and line graph. The difference between summary and summary charts is summary charts provide information as graphs. 'View summary charts' allows the user to check categories and total spending, expenses over time, income over time and compare total income and expenses. The user is able to save the image of charts in their folder. 
+Once a user runs this code, the program will show up six options with welcome sign, which are add records, view records, summary of total expenses, income, and net balance, sort records by date, category, and type(income or expense), view summary charts through bar graph and line graph. The difference between summary and summary charts is summary charts provide information as graphs. 'View summary charts' allows the user to check categories and total spending, expenses over time, income over time and compare total income and expenses. The user is able to save the image of charts in their folder. 
 
 # Python version, required libraries, and database setup
 Python 3.13.0
